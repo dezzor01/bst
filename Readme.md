@@ -14,4 +14,4 @@
 ## Установка
 
 ```bash
-go get github.com/твой_юзернейм/go-bst/tree
+go get github.com/dezzor01/bst
